@@ -1,0 +1,30 @@
+_repo: The-Heritage-of-Dedlow-Marsh-and-Other-Tales_2281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: The heritage of Dedlow marsh. -- A knight-errant of the foot-hills. --
+  A secret of Telegraph Hill. -- Captain Jim's friend.
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'California -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The heritage of Dedlow Marsh -- A knight-errant of the foot-hills
+  -- A secret of Telegraph Hill -- Captain Jim's friend.
+title: The Heritage of Dedlow Marsh and Other Tales
+url: http://www.gutenberg.org/ebooks/2281
